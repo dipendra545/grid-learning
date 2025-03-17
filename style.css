@@ -14,12 +14,12 @@
     align-items: center;
 }
 .main{
-    justify-content: center;
+    /* justify-content: center; */
     /* align-items: center; */
     display: grid;
     grid-template-columns:auto;
     gap: 20px;
-    align-items: center;
+    /* align-items: center;xx */
 }
 h1{
     /* text-align: center; */
